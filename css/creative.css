@@ -221,7 +221,7 @@ header.masthead {
                     rgba(0, 0, 0, 0.45),       
                     rgba(0, 0, 0, 0.45),  
                 ),
-                url(https://nicolethurgood.github.io/2019gala/img/v7.png);
+                url("https://nicolethurgood.github.io/2019gala/img/v7.png");
   /*background-color: black;*/
   background-position: center center;
   background-size: cover;
