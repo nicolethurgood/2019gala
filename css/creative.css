@@ -217,7 +217,7 @@ footer{
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/v2.png");
+  background:    rgba(255, 0, 0, 0.25)  url("../img/v2.png");
   /*background-color: black;*/
   background-position: center center;
   background-size: cover;
