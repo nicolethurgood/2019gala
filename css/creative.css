@@ -219,7 +219,7 @@ header.masthead {
   padding-bottom: calc(10rem - 56px);
   background:   linear-gradient(      
                     rgba(0, 0, 0, 0.45),       
-                    rgb(197 150 16 / 65%)   
+                    rgba(0, 0, 0, 0.45),  
                 ),
                 url(https://nicolethurgood.github.io/2019gala/img/v7.png);
   /*background-color: black;*/
